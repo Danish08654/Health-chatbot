@@ -1,4 +1,4 @@
-#  Health Chatbot using LLM (Mistral-7B-Instruct)
+#  Health Query Chatbot using LLM (Mistral-7B-Instruct)
 
 ## Overview
 This project is a **General Health Query Chatbot** built using a **Large Language Model (LLM)**.  
